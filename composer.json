@@ -16,7 +16,6 @@
         "ext-json": "*",
         "ext-openssl": "*",
         "ext-SimpleXML": "*",
-	"guzzlehttp/guzzle": "^6.3",
     },
 	"autoload": {
 		"psr-4": {
